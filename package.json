@@ -1,0 +1,12 @@
+{
+  "name": "appv1",
+  "version": "1.0.0",
+  "description": "node app for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"noode app test\""
+  },
+  "author": "",
+  "license": "ISC"
+}
